@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "927779254390",
+    "firebase_url": "https://connectus-bc4f5.firebaseio.com",
+    "project_id": "connectus-bc4f5",
+    "storage_bucket": "connectus-bc4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927779254390:android:bef9e6cd59968d0f",
+        "android_client_info": {
+          "package_name": "com.connect.chat.connectus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927779254390-u7shqe9vdmms316r7nke181m4mk5607b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.chat.connectus",
+            "certificate_hash": "85f6b40c5255c4a5361e2ff09342d24f93bca805"
+          }
+        },
+        {
+          "client_id": "927779254390-stlvdtgq9gn72ekrmfspn5su881rutue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKduL0jnJ0esi2QnnnKlx9zUU3wUi65_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927779254390-stlvdtgq9gn72ekrmfspn5su881rutue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
