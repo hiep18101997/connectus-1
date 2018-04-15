@@ -3,7 +3,7 @@ package com.connect.chat.connectus.presenter.impl;
 
 import com.connect.chat.connectus.base.BasePresenterImp;
 import com.connect.chat.connectus.presenter.MainPresenter;
-import com.connect.chat.connectus.ui.MainView;
+import com.connect.chat.connectus.ui.activity.MainView;
 
 import org.json.JSONObject;
 

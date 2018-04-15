@@ -31,6 +31,11 @@ dependencies {
     implementation 'com.firebaseui:firebase-ui:0.6.0'
     implementation 'com.google.android.gms:play-services:12.0.1'
     implementation 'com.google.firebase:firebase-auth:12.0.1'
+    //Bottom Bar
+    implementation 'com.roughike:bottom-bar:2.3.1'
+    //Butter Knife
+    implementation 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 }
 
 apply plugin: 'com.google.gms.google-services'

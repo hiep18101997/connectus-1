@@ -6,10 +6,18 @@ import android.view.WindowManager;
 
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseActivity;
+import com.connect.chat.connectus.presenter.HomePresenter;
 import com.connect.chat.connectus.presenter.MainPresenter;
+import com.connect.chat.connectus.presenter.impl.HomePresenterImpl;
+import com.roughike.bottombar.BottomBar;
+import com.roughike.bottombar.OnTabSelectListener;
 
-public class HomeActivity extends BaseActivity<MainPresenter> {
+import butterknife.BindView;
+import butterknife.ButterKnife;
 
+public class HomeActivity extends BaseActivity<HomePresenter> implements HomeView, OnTabSelectListener {
+    @BindView(R.id.bottom_bar)
+    BottomBar bottomBar;
     @Override
     public int getContentViewId() {
         return R.layout.activity_home;
@@ -17,20 +25,19 @@ public class HomeActivity extends BaseActivity<MainPresenter> {
 
     @Override
     public void initializeComponents() {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-            Window w = getWindow(); // in Activity's onCreate() for instance
-            w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
-        }
+        ButterKnife.bind(this);
+        bottomBar.setOnTabSelectListener(this);
     }
 
     @Override
-    public MainPresenter createPresenter() {
-        return new MainPresenter() {
+    public HomePresenter createPresenter() {
+       return new HomePresenterImpl(this);
+    }
 
-            @Override
-            public int hashCode() {
-                return super.hashCode();
-            }
-        };
+    @Override
+    public void onTabSelected(int tabId) {
+        switch (tabId){
+
+        }
     }
 }

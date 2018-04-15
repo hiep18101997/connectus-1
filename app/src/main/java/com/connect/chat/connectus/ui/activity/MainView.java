@@ -1,4 +1,4 @@
-package com.connect.chat.connectus.ui;
+package com.connect.chat.connectus.ui.activity;
 
 
 import com.connect.chat.connectus.base.BaseView;

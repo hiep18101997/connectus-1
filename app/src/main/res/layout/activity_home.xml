@@ -1,52 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.activity.HomeActivity">
-
-
-    <LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout
+        android:id="@+id/frame_container"
         android:layout_width="match_parent"
-        android:layout_height="48dp"
-        android:background="#EEEEEE"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_bar" />
+
+    <com.roughike.bottombar.BottomBar
+        android:id="@+id/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
         android:layout_alignParentBottom="true"
-        android:gravity="center"
-        android:orientation="horizontal"
-        android:weightSum="4">
-
-        <ImageView
-            android:id="@+id/img_online"
-            android:layout_width="28dp"
-            android:layout_height="28dp"
-            android:layout_weight="1"
-            android:src="@drawable/online" />
-
-        <ImageView
-            android:id="@+id/img_offline"
-            android:layout_width="28dp"
-            android:layout_height="28dp"
-            android:layout_weight="1"
-            android:src="@drawable/offline" />
-
-
-        <ImageView
-            android:id="@+id/img_map"
-            android:layout_width="28dp"
-            android:layout_height="28dp"
-            android:layout_weight="1"
-            android:src="@drawable/map" />
-
-
-        <ImageView
-            android:id="@+id/img_setting"
-            android:layout_width="28dp"
-            android:layout_height="28dp"
-            android:layout_weight="1"
-            android:src="@drawable/dots" />
-
-
-    </LinearLayout>
+        app:bb_behavior="shifting"
+        app:bb_activeTabColor="#042eb9"
+        app:bb_inActiveTabColor="@android:color/black"
+        app:bb_tabXmlResource="@xml/bottombar_tabs" />
 
 </RelativeLayout>
