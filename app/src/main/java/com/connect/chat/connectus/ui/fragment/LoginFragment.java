@@ -10,17 +10,13 @@ import android.view.WindowManager;
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseFragment;
 import com.connect.chat.connectus.base.BasePresenter;
+import com.connect.chat.connectus.presenter.LoginPresenter;
+import com.connect.chat.connectus.presenter.impl.LoginPresenterImpl;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class LoginFragment extends BaseFragment<BasePresenter> {
-
-
-    public LoginFragment() {
-        // Required empty public constructor
-    }
-
+public class LoginFragment extends BaseFragment<LoginPresenter> implements LoginView{
 
     @Override
     public int getContentViewId() {
@@ -29,15 +25,10 @@ public class LoginFragment extends BaseFragment<BasePresenter> {
 
     @Override
     public void initializeComponents(View view) {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-            Window w = getActivity().getWindow(); // in Activity's onCreate() for instance
-            w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
-        }
-
     }
 
     @Override
-    public BasePresenter createPresenter() {
-        return null;
+    public LoginPresenter createPresenter() {
+        return new LoginPresenterImpl(this);
     }
 }

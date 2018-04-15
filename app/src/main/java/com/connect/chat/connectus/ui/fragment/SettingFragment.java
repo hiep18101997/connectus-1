@@ -10,18 +10,13 @@ import android.view.WindowManager;
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseFragment;
 import com.connect.chat.connectus.base.BasePresenter;
+import com.connect.chat.connectus.presenter.SettingPresenter;
+import com.connect.chat.connectus.presenter.impl.SettingPresenterImpl;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class SettingFragment extends BaseFragment<BasePresenter> {
-
-
-    public SettingFragment() {
-        // Required empty public constructor
-    }
-
-
+public class SettingFragment extends BaseFragment<SettingPresenter> implements SettingView {
     @Override
     public int getContentViewId() {
         return R.layout.fragment_setting;
@@ -29,14 +24,15 @@ public class SettingFragment extends BaseFragment<BasePresenter> {
 
     @Override
     public void initializeComponents(View view) {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-            Window w = getActivity().getWindow(); // in Activity's onCreate() for instance
-            w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
-        }
+
     }
 
     @Override
-    public BasePresenter createPresenter() {
-        return null;
+    public SettingPresenter createPresenter() {
+        return new SettingPresenterImpl(this);
+    }
+
+    public static SettingFragment newInstance() {
+        return new SettingFragment();
     }
 }

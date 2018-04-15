@@ -10,17 +10,16 @@ import android.view.WindowManager;
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseFragment;
 import com.connect.chat.connectus.base.BasePresenter;
-import com.connect.chat.connectus.presenter.MapPresenter;
-import com.connect.chat.connectus.presenter.impl.MapPresenterImpl;
+import com.connect.chat.connectus.presenter.OfflinePresenter;
+import com.connect.chat.connectus.presenter.impl.OfflinePresenterImpl;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class MapFragment extends BaseFragment<MapPresenter> implements MapView {
-
+public class OfflineFragment extends BaseFragment<OfflinePresenter> implements OfflineView {
     @Override
     public int getContentViewId() {
-        return R.layout.fragment_map;
+        return R.layout.fragment_offline;
     }
 
     @Override
@@ -29,11 +28,11 @@ public class MapFragment extends BaseFragment<MapPresenter> implements MapView {
     }
 
     @Override
-    public MapPresenter createPresenter() {
-        return new MapPresenterImpl(this);
+    public OfflinePresenter createPresenter() {
+        return new OfflinePresenterImpl(this);
     }
 
-    public static MapFragment newInstance() {
-        return new MapFragment();
+    public static OfflineFragment newInstance() {
+        return new OfflineFragment();
     }
 }

@@ -10,17 +10,13 @@ import android.view.WindowManager;
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseFragment;
 import com.connect.chat.connectus.base.BasePresenter;
+import com.connect.chat.connectus.presenter.OnlinePresenter;
+import com.connect.chat.connectus.presenter.impl.OnlinePresenterImpl;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class OnlineFragment extends BaseFragment<BasePresenter> {
-
-
-    public OnlineFragment() {
-        // Required empty public constructor
-    }
-
+public class OnlineFragment extends BaseFragment<OnlinePresenter> implements OnlineView{
 
     @Override
     public int getContentViewId() {
@@ -29,14 +25,15 @@ public class OnlineFragment extends BaseFragment<BasePresenter> {
 
     @Override
     public void initializeComponents(View view) {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-            Window w = getActivity().getWindow(); // in Activity's onCreate() for instance
-            w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
-        }
+
     }
 
     @Override
-    public BasePresenter createPresenter() {
-        return null;
+    public OnlinePresenter createPresenter() {
+        return new OnlinePresenterImpl(this);
+    }
+
+    public static OnlineFragment newInstance() {
+        return new OnlineFragment();
     }
 }
