@@ -12,10 +12,23 @@ public class DefaultDialog implements IDialog {
     private IMessage lastMessage;
     private int unreadCount;
 
+    public DefaultDialog(String id, String dialogPhoto, String dialogName, ArrayList<IUser> users, IMessage lastMessage, int unreadCount) {
+
+        this.id = id;
+        this.dialogPhoto = dialogPhoto;
+        this.dialogName = dialogName;
+        this.users = users;
+        this.lastMessage = lastMessage;
+        this.unreadCount = unreadCount;
+    }
 
     @Override
     public String getId() {
         return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 
     @Override
@@ -23,14 +36,26 @@ public class DefaultDialog implements IDialog {
         return dialogPhoto;
     }
 
+    public void setDialogPhoto(String dialogPhoto) {
+        this.dialogPhoto = dialogPhoto;
+    }
+
     @Override
     public String getDialogName() {
         return dialogName;
     }
 
+    public void setDialogName(String dialogName) {
+        this.dialogName = dialogName;
+    }
+
     @Override
     public ArrayList<IUser> getUsers() {
         return users;
+    }
+
+    public void setUsers(ArrayList<IUser> users) {
+        this.users = users;
     }
 
     @Override
@@ -46,5 +71,9 @@ public class DefaultDialog implements IDialog {
     @Override
     public int getUnreadCount() {
         return unreadCount;
+    }
+
+    public void setUnreadCount(int unreadCount) {
+        this.unreadCount = unreadCount;
     }
 }

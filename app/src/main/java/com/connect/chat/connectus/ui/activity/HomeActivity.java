@@ -1,7 +1,6 @@
 package com.connect.chat.connectus.ui.activity;
 
 import android.support.v4.view.ViewPager;
-import android.widget.ImageView;
 
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseActivity;
@@ -10,9 +9,6 @@ import com.connect.chat.connectus.presenter.impl.HomePresenterImpl;
 import com.connect.chat.connectus.ui.adapter.HomePagerAdapter;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnTabSelectListener;
-import com.squareup.picasso.Picasso;
-import com.stfalcon.chatkit.commons.ImageLoader;
-import com.stfalcon.chatkit.dialogs.DialogsListAdapter;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -22,8 +18,7 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
     ViewPager viewPager;
     @BindView(R.id.bottom_bar)
     BottomBar bottomBar;
-    @BindView(R.id.)
-    private HomePagerAdapter homePagerAdapter;
+    HomePagerAdapter homePagerAdapter;
 
     @Override
     public int getContentViewId() {
@@ -65,6 +60,7 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
         });
         viewPager.setOffscreenPageLimit(4);
     }
+
     @Override
     public void onTabSelected(int tabId) {
         switch (tabId) {

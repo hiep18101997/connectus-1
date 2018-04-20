@@ -1,24 +1,25 @@
 package com.connect.chat.connectus.ui.fragment;
 
 
-import android.os.Build;
+import android.content.Intent;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
 import android.widget.ImageView;
 
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseFragment;
-import com.connect.chat.connectus.base.BasePresenter;
+import com.connect.chat.connectus.data.fixtures.DialogsFixtures;
+import com.connect.chat.connectus.data.model.Dialog;
 import com.connect.chat.connectus.presenter.OnlinePresenter;
 import com.connect.chat.connectus.presenter.impl.OnlinePresenterImpl;
-import com.connect.chat.connectus.ui.adapter.OnlineAdapter;
+import com.connect.chat.connectus.ui.activity.MessagesActivity;
 import com.squareup.picasso.Picasso;
 import com.stfalcon.chatkit.commons.ImageLoader;
 import com.stfalcon.chatkit.dialogs.DialogsList;
 import com.stfalcon.chatkit.dialogs.DialogsListAdapter;
+import com.stfalcon.chatkit.utils.DateFormatter;
+
+import java.util.Date;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -26,9 +27,14 @@ import butterknife.ButterKnife;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class OnlineFragment extends BaseFragment<OnlinePresenter> implements OnlineView{
-    @BindView(R.id.dialogsList)
+public class OnlineFragment extends BaseFragment<OnlinePresenter> implements OnlineView, DialogsListAdapter.OnDialogClickListener<Dialog>, DialogsListAdapter.OnDialogLongClickListener<Dialog>, DateFormatter.Formatter {
     DialogsList dialogsListView;
+    DialogsListAdapter<Dialog> dialogsAdapter;
+
+    public static OnlineFragment newInstance() {
+        return new OnlineFragment();
+    }
+
     @Override
     public int getContentViewId() {
         return R.layout.fragment_online;
@@ -37,16 +43,23 @@ public class OnlineFragment extends BaseFragment<OnlinePresenter> implements Onl
     @Override
     public void initializeComponents(View view) {
         ButterKnife.bind(view);
-        DialogsListAdapter dialogsListAdapter = new DialogsListAdapter<>(R.layout.item_custom_dialog_view_holder, new ImageLoader() {
+        dialogsListView=view.findViewById(R.id.dialogsList);
+        initAdapter();
+
+    }
+
+    private void initAdapter() {
+        dialogsAdapter = new DialogsListAdapter<>(new ImageLoader() {
             @Override
             public void loadImage(ImageView imageView, String url) {
-                //If you using another library - write here your way to load image
                 Picasso.get().load(url).into(imageView);
             }
         });
-
-        dialogsListView.setAdapter(dialogsListAdapter);
-
+        dialogsAdapter.setItems(DialogsFixtures.getDialogs());
+        dialogsAdapter.setOnDialogClickListener(this);
+        dialogsAdapter.setOnDialogLongClickListener(this);
+        dialogsAdapter.setDatesFormatter(this);
+        dialogsListView.setAdapter(dialogsAdapter);
     }
 
     @Override
@@ -54,7 +67,26 @@ public class OnlineFragment extends BaseFragment<OnlinePresenter> implements Onl
         return new OnlinePresenterImpl(this);
     }
 
-    public static OnlineFragment newInstance() {
-        return new OnlineFragment();
+    @Override
+    public void onDialogClick(Dialog dialog) {
+        startActivity(new Intent(getContext(), MessagesActivity.class));
+    }
+
+    @Override
+    public void onDialogLongClick(Dialog dialog) {
+
+    }
+
+    @Override
+    public String format(Date date) {
+        if (DateFormatter.isToday(date)) {
+            return DateFormatter.format(date, DateFormatter.Template.TIME);
+        } else if (DateFormatter.isYesterday(date)) {
+            return getString(R.string.date_header_yesterday);
+        } else if (DateFormatter.isCurrentYear(date)) {
+            return DateFormatter.format(date, DateFormatter.Template.STRING_DAY_MONTH);
+        } else {
+            return DateFormatter.format(date, DateFormatter.Template.STRING_DAY_MONTH_YEAR);
+        }
     }
 }
