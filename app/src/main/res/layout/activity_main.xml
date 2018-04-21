@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8866BB6A"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:theme="@style/main_theme"
+    tools:context="com.connect.chat.connectus.ui.activity.MainActivity"
+    tools:layout_editor_absoluteY="25dp">
+
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="?android:attr/actionBarSize"
+        android:src="@drawable/connect_logo" />
+
+
+    <Button
+        android:id="@+id/btn_online"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_normal"
+        android:elevation="10dp"
+        android:text="Online"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_16" />
+
+    <Button
+        android:id="@+id/btn_offline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_online"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_normal"
+        android:elevation="10dp"
+        android:gravity="center"
+        android:text="Offline"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_16" />
+
+
+</RelativeLayout>

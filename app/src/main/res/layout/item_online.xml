@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal">
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/iv_image"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/icon"
+        android:layout_marginLeft="16dp"
+        app:civ_border_width="2dp"
+        app:civ_border_color="#FF000000"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="8dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:text="Đinh Nguyễn Hoàng Hiệp"
+            android:textSize="18dp"
+            android:id="@+id/tv_name"
+            android:gravity="bottom"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:layout_height="0dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:text="As this is just a custom ImageView and not a custom Drawable"
+            android:textSize="15dp"
+            android:maxLines="1"
+            android:id="@+id/tv_content"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="5dp"
+            android:ellipsize="end"
+            android:layout_height="0dp" />
+    </LinearLayout>
+
+</LinearLayout>

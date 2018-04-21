@@ -1,18 +1,18 @@
 <tabs>
     <tab
-        icon="@drawable/ic_online"
         id="@+id/tab_online"
+        icon="@drawable/ic_online"
         title="Online" />
     <tab
-        icon="@drawable/ic_offline"
         id="@+id/tab_offline"
+        icon="@drawable/ic_offline"
         title="Offline" />
     <tab
-        icon="@drawable/ic_near_here"
         id="@+id/tab_near"
+        icon="@drawable/ic_near_here"
         title="Near" />
     <tab
-        icon="@drawable/ic_more"
         id="@+id/tab_more"
+        icon="@drawable/ic_more"
         title="More" />
 </tabs>

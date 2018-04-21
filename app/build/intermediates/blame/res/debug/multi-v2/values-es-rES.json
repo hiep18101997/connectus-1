@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ConnectUS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+            "outputFile": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\minhd\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\d84ecfc9054b0136a8e4ce946d49516d\\res\\values-es-rES\\values-es-rES.xml",
+                    "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\values-es-rES\\values-es-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
