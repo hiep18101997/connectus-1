@@ -14,13 +14,11 @@
     <com.roughike.bottombar.BottomBar
         android:id="@+id/bottom_bar"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="60dp"
         android:layout_alignParentBottom="true"
-        android:background="#37474f"
-        app:bb_badgeBackgroundColor="@color/black"
-        app:bb_activeTabColor="@color/white"
-        app:bb_badgesHideWhenActive="true"
+        app:bb_activeTabColor="#042eb9"
         app:bb_behavior="shifting"
+        app:bb_inActiveTabColor="@android:color/black"
         app:bb_tabXmlResource="@xml/bottombar_tabs" />
 
 </RelativeLayout>

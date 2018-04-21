@@ -1,6 +1,9 @@
 package com.connect.chat.connectus.ui.activity;
 
 import android.support.v4.view.ViewPager;
+import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseActivity;
@@ -18,19 +21,26 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
     ViewPager viewPager;
     @BindView(R.id.bottom_bar)
     BottomBar bottomBar;
-    HomePagerAdapter homePagerAdapter;
+
+    private HomePagerAdapter homePagerAdapter;
+    private static final int MY_PERMISSION = 123;
+    private View mDecorView;
 
     @Override
     public int getContentViewId() {
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        mDecorView = getWindow().getDecorView();
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         return R.layout.activity_home;
     }
 
     @Override
     public void initializeComponents() {
+
         ButterKnife.bind(this);
         bottomBar.setOnTabSelectListener(this);
         setupViewPager();
-
 
     }
 
@@ -69,6 +79,7 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
                 break;
             case R.id.tab_offline:
                 viewPager.setCurrentItem(HomePagerAdapter.OFFLINE_INDEX);
+
                 break;
             case R.id.tab_near:
                 viewPager.setCurrentItem(HomePagerAdapter.MAP_INDEX);
@@ -78,5 +89,6 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
                 break;
         }
     }
+
 
 }
