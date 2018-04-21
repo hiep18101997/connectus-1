@@ -14,4 +14,21 @@
 
     </style>
 
+    <style name="AppLoginTheme" parent="Theme.AccountKit">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="com_accountkit_primary_color">#37474f</item>
+        <item name="com_accountkit_primary_text_color">@android:color/white</item>
+        <item name="com_accountkit_secondary_color">#eef6ff</item>
+        <item name="com_accountkit_secondary_text_color">#37474f</item>
+        <item name="com_accountkit_status_bar_color">#37474f</item>
+        <item name="com_accountkit_button_disabled_border_color">#37474f</item>
+        <item name="com_accountkit_button_disabled_text_color">#37474f</item>
+        <item name="com_accountkit_button_pressed_border_color">#37474f</item>
+        <item name="com_accountkit_input_accent_color">#37474f</item>
+        <item name="com_accountkit_input_background_color">?attr/com_accountkit_background_color</item>
+        <item name="com_accountkit_input_border_color">#37474f</item>
+
+    </style>
+
 </resources>

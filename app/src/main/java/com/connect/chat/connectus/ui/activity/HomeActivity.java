@@ -31,7 +31,6 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
         bottomBar.setOnTabSelectListener(this);
         setupViewPager();
 
-
     }
 
     @Override
@@ -78,5 +77,4 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
                 break;
         }
     }
-
 }

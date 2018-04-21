@@ -43,6 +43,8 @@ dependencies {
     //ChatKit
     compile 'com.github.stfalcon:chatkit:0.2.2'
     implementation 'com.squareup.picasso:picasso:2.71828'
+    //FB ACKit
+    implementation 'com.facebook.android:account-kit-sdk:4.+'
 
 }
 

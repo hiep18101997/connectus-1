@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_accountkit_check_sms.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xhdpi-v4\\com_accountkit_check_sms.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_medium_off_client.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-12.0.1.aar\\1ae0619a99c80b788702eff4385648d1\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
     },
@@ -12,12 +16,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_15_light.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_offline.png.flat",
-        "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-xhdpi\\ic_offline.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_connect_logo.png.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable\\connect_logo.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_offline.png.flat",
+        "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-xhdpi\\ic_offline.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_20_dark.png.flat",
@@ -30,6 +34,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_cast_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xhdpi-v4\\quantum_ic_cast_white_36.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_accountkit_get_call.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-mdpi-v4\\com_accountkit_get_call.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color_com_facebook_button_text_color.xml.flat",
@@ -208,12 +216,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_skip_next_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_15.png.flat",
@@ -228,20 +236,20 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_white_24.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_skip_previous_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_36.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_visibility_off_black_24dp.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.0.aar\\8007a027e96f58bd7be14ca3697008a3\\res\\drawable-xxxhdpi-v4\\ic_visibility_off_black_24dp.png"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\6ec560c610420fbb85db3a1ee72d51bf\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.0.aar\\8007a027e96f58bd7be14ca3697008a3\\res\\drawable-xxxhdpi-v4\\ic_visibility_off_black_24dp.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
@@ -292,12 +300,16 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_topnub.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_06.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_06.png"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_accountkit_progress_complete.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable\\com_accountkit_progress_complete.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_23_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_23_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_06.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_06.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_places_ic_clear.png.flat",
@@ -312,20 +324,28 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_confirmation_code_top.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_confirmation_code_top.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_facebook.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.0.aar\\000c246839526194b4bd235c35125ac8\\res\\drawable-xxxhdpi-v4\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_accountkit_get_call.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxhdpi-v4\\com_accountkit_get_call.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_forward10.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cast_ic_notification_1.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-12.0.1.aar\\768272e24d4cb79706f91d539ff099a0\\res\\drawable-mdpi-v4\\cast_ic_notification_1.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_06_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_06_dark.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cast_ic_notification_1.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-12.0.1.aar\\768272e24d4cb79706f91d539ff099a0\\res\\drawable-mdpi-v4\\cast_ic_notification_1.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -342,6 +362,14 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color_wallet_primary_text_holo_light.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-12.0.1.aar\\0ee8d93651ef42230f35fff4abc41e98\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_com_accountkit_check_sms.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxxhdpi-v4\\com_accountkit_check_sms.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_com_accountkit_spinner_triangle.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxxhdpi-v4\\com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_incoming_image_message.xml.flat",
@@ -396,12 +424,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_portrait.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-mdpi-v4\\quantum_ic_art_track_grey600_48.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-mdpi-v4\\quantum_ic_art_track_grey600_48.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -416,12 +444,16 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_11_dark.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_accountkit_get_call.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xhdpi-v4\\com_accountkit_get_call.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_audiotrack_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-hdpi-v4\\ic_audiotrack_dark.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_11_dark.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_email_white_18dp.png.flat",
@@ -452,12 +484,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-hdpi-v4\\ic_vol_type_speaker_group_dark.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_forward_30_white_36.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_forward_30_white_36.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_forward_30_white_36.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_forward_30_white_36.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_05_light.png.flat",
@@ -500,12 +532,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_selector.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_play_arrow_grey600_48.png.flat",
@@ -518,6 +550,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_29_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_29_dark.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_accountkit_spinner_triangle.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxhdpi-v4\\com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_05_light.png.flat",
@@ -542,6 +578,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_cast_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_accountkit_device.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-mdpi-v4\\com_accountkit_device.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_logo_googleg_color_18dp.png.flat",
@@ -640,12 +680,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_dark.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\7d4003429c3bf2ce10ecc0d947aebbc6\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
@@ -664,12 +704,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-12.0.1.aar\\1ae0619a99c80b788702eff4385648d1\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_15_dark.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_15_dark.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_stop_grey600_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_15_dark.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_15_dark.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_expand_07.png.flat",
@@ -712,20 +752,20 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_button_icon_white.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_delete.png.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_delete.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_bb_bottom_bar_item_container.xml.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\e667e3acf4c1cd89b89928158354968e\\res\\layout\\bb_bottom_bar_item_container.xml"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_button_icon_white.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_bb_bottom_bar_item_container.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\e667e3acf4c1cd89b89928158354968e\\res\\layout\\bb_bottom_bar_item_container.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_pause_grey600_48.png.flat",
@@ -760,12 +800,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_pause_grey600_48.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_28_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_28_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_pause_grey600_48.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_22_light.png.flat",
@@ -800,16 +840,20 @@
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_com_accountkit_code_fb.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxxhdpi-v4\\com_accountkit_code_fb.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_pause_circle_filled_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back_24dp.png.flat",
-        "source": "C:\\BTL\\ConnectUs\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back_24dp.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_13_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back_24dp.png.flat",
+        "source": "C:\\BTL\\ConnectUs\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back_24dp.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_media_pause_dark.xml.flat",
@@ -836,6 +880,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_error_bottom.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_error_bottom.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_cast_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_white_36.png"
     },
@@ -856,12 +904,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_dark.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_small_off_client.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-12.0.1.aar\\1ae0619a99c80b788702eff4385648d1\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_13_light.png.flat",
@@ -904,12 +952,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_18_dark.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_13_dark.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_dark.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_13_dark.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_dark.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back_24dp.png.flat",
@@ -946,6 +994,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_media_play_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-hdpi-v4\\ic_media_play_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_confirmation_code_bottom.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_confirmation_code_bottom.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_clear_white_24.png.flat",
@@ -1028,12 +1080,16 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\7d4003429c3bf2ce10ecc0d947aebbc6\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_play_circle_filled_grey600_36.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_verifying_code_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_verifying_code_center.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_play_circle_filled_grey600_36.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_stop_circle_filled_grey600.png.flat",
@@ -1088,12 +1144,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_28_dark.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_19_dark.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_19_dark.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_01_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_01_dark.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_19_dark.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_19_dark.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
@@ -1176,6 +1232,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_dark.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_com_accountkit_device.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxxhdpi-v4\\com_accountkit_device.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bg_preview_default_design.png.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-nodpi\\bg_preview_default_design.png"
     },
@@ -1188,12 +1248,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_cast_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_23_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_23_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_cast_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_14_light.png.flat",
@@ -1232,12 +1292,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_14.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_custom_layout_send.png.flat",
-        "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-xhdpi\\bg_custom_layout_send.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_bb_bottom_bar_item_container_tablet.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\e667e3acf4c1cd89b89928158354968e\\res\\layout\\bb_bottom_bar_item_container_tablet.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_custom_layout_send.png.flat",
+        "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-xhdpi\\bg_custom_layout_send.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1280,12 +1340,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_twitter.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.0.aar\\000c246839526194b4bd235c35125ac8\\res\\drawable-ldpi-v4\\ic_twitter.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cast_ic_notification_2.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-12.0.1.aar\\768272e24d4cb79706f91d539ff099a0\\res\\drawable-mdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_twitter.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.0.aar\\000c246839526194b4bd235c35125ac8\\res\\drawable-ldpi-v4\\ic_twitter.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_forward_30_grey600_36.png.flat",
@@ -1376,16 +1436,16 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\color\\abc_tint_spinner.xml"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_rewind10.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_rewind10.xml.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable\\cast_ic_notification_rewind10.xml"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\color\\abc_tint_spinner.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
@@ -1420,12 +1480,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\1fe5fe536aa863411bc27d762bea69f7\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_13_light.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_13_light.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_background.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_13_light.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_13_light.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_ic_stop_circle_filled_white.png.flat",
@@ -1474,6 +1534,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_bigtop_updates_white_24.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-mdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_accountkit_code_fb.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxhdpi-v4\\com_accountkit_code_fb.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_facebook.xml.flat",
@@ -1536,6 +1600,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.0.aar\\000c246839526194b4bd235c35125ac8\\res\\drawable-anydpi-v21\\ic_twitter.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_email_login_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_email_login_center.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_28_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_28_light.png"
     },
@@ -1544,12 +1612,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_19_dark.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_19_dark.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_19_dark.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_19_dark.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_09_dark.png.flat",
@@ -1812,6 +1880,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_accountkit_device.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxhdpi-v4\\com_accountkit_device.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_vol_type_speaker_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-mdpi-v4\\ic_vol_type_speaker_dark.png"
     },
@@ -1868,16 +1940,16 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_audiotrack_dark.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_mr_button_disabled_light.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-hdpi-v4\\ic_mr_button_disabled_light.png"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_mr_button_disconnected_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-hdpi-v4\\ic_mr_button_disconnected_light.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_mr_button_disabled_light.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-hdpi-v4\\ic_mr_button_disabled_light.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
@@ -1968,6 +2040,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.0.aar\\000c246839526194b4bd235c35125ac8\\res\\drawable\\password_button.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_resend_bottom.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_resend_bottom.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
@@ -2008,6 +2084,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\7d4003429c3bf2ce10ecc0d947aebbc6\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_accountkit_check_sms.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxhdpi-v4\\com_accountkit_check_sms.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_delete.png.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_delete.png"
     },
@@ -2046,6 +2126,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_closed_caption_grey600_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_phone_login_text.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_phone_login_text.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_skip_next_white_24.png.flat",
@@ -2136,6 +2220,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_10_white_24.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_accountkit_spinner_triangle.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-mdpi-v4\\com_accountkit_spinner_triangle.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -2168,6 +2256,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-12.0.1.aar\\1ae0619a99c80b788702eff4385648d1\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_accountkit_code_fb.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-mdpi-v4\\com_accountkit_code_fb.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\1fe5fe536aa863411bc27d762bea69f7\\res\\layout\\design_layout_tab_text.xml"
     },
@@ -2188,12 +2280,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\cast_ic_stop_circle_filled_white.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -2256,6 +2348,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_email_login_top.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_email_login_top.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_forward_30_white_24.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
@@ -2308,6 +2404,14 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-12.0.1.aar\\1ae0619a99c80b788702eff4385648d1\\res\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_sent_code_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_sent_code_center.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_phone_login_bottom.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_phone_login_bottom.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -2332,12 +2436,20 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\7d4003429c3bf2ce10ecc0d947aebbc6\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_accountkit_device.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xhdpi-v4\\com_accountkit_device.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_16_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_accountkit_device.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-hdpi-v4\\com_accountkit_device.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_add_attachment.png.flat",
@@ -2354,6 +2466,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_vol_type_tv_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_vol_type_tv_dark.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_accountkit_pencil.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable\\com_accountkit_pencil.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_fragment.xml.flat",
@@ -2424,12 +2540,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_replay_white_24.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_replay_white_24.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -2524,12 +2640,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_00.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_00.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\1fe5fe536aa863411bc27d762bea69f7\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_00.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_00.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_standard_off_client.png.flat",
@@ -2604,6 +2720,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\layout\\cast_intro_overlay.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_sending_code_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_sending_code_center.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -2668,20 +2788,20 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_10_dark.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_replay_30_grey600_36.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png"
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_replay_30_grey600_36.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_closed_caption_grey600_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_play_circle_filled_grey600_36.png.flat",
@@ -2724,6 +2844,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-mdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_com_accountkit_get_call.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xxxhdpi-v4\\com_accountkit_get_call.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -2758,6 +2882,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_dialog_close_dark.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_static_content.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_static_content.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_09_light.png.flat",
@@ -2892,6 +3020,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.0.aar\\8007a027e96f58bd7be14ca3697008a3\\res\\drawable-xxhdpi-v4\\ic_visibility_black_24dp.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_email_verify_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_email_verify_center.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -2962,6 +3094,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_00_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_accountkit_progress_complete_vector.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable\\com_accountkit_progress_complete_vector.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -3184,12 +3320,24 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_dark.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_accountkit_progress_ring.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable\\com_accountkit_progress_ring.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_accountkit_spinner_triangle.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-hdpi-v4\\com_accountkit_spinner_triangle.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_21_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_21_light.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_volume_up_white_36.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_up_white_36.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\anim_com_accountkit_progress_complete_circle_anim.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\anim\\com_accountkit_progress_complete_circle_anim.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_27_light.png.flat",
@@ -3222,6 +3370,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_ic_stop_circle_filled_white.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\cast_ic_stop_circle_filled_white.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_accountkit_get_call.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-hdpi-v4\\com_accountkit_get_call.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_03_light.png.flat",
@@ -3278,6 +3430,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bg_preview_custom_holder.png.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-nodpi\\bg_preview_custom_holder.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_accountkit_spinner_triangle.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xhdpi-v4\\com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_volume_up_white_36.png.flat",
@@ -3420,6 +3576,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_light.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_title.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_title.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_disabled_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_disabled_dark.png"
     },
@@ -3518,6 +3678,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_error_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_error_center.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_closed_caption_white_36.png.flat",
@@ -3832,6 +3996,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\bottom-bar-2.3.1.aar\\e667e3acf4c1cd89b89928158354968e\\res\\layout\\bb_bottom_bar_item_shifting.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_accountkit_email.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable\\com_accountkit_email.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_25_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_25_light.png"
     },
@@ -3948,12 +4116,20 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-12.0.1.aar\\768272e24d4cb79706f91d539ff099a0\\res\\drawable-xhdpi-v4\\cast_ic_notification_0.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_email_login_text.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_email_login_text.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_03_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_03_light.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_activity_layout.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_activity_layout.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_pause_circle_filled_white_36.png.flat",
@@ -3978,6 +4154,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\7d4003429c3bf2ce10ecc0d947aebbc6\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_accountkit_code_fb.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-xhdpi-v4\\com_accountkit_code_fb.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -4272,6 +4452,10 @@
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_phone_login_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_phone_login_center.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_ic_notification_1.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-12.0.1.aar\\768272e24d4cb79706f91d539ff099a0\\res\\drawable-xxhdpi-v4\\cast_ic_notification_1.png"
     },
@@ -4436,6 +4620,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\anim_com_accountkit_progress_complete_check_anim.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\anim\\com_accountkit_progress_complete_check_anim.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_15_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_15_light.png"
     },
@@ -4446,6 +4634,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_copy.png.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_copy.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_email_verify_bottom.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_email_verify_bottom.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_twitter.png.flat",
@@ -4740,6 +4932,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_phone_login_top.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_phone_login_top.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\6ec560c610420fbb85db3a1ee72d51bf\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -5024,6 +5220,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.0.aar\\000c246839526194b4bd235c35125ac8\\res\\drawable-xxhdpi-v4\\ic_google.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_confirmation_code_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_confirmation_code_center.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_bubble_offline.xml.flat",
         "source": "C:\\BTL\\ConnectUs\\app\\src\\main\\res\\drawable\\shape_bubble_offline.xml"
     },
@@ -5082,6 +5282,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_forward_30_white_24.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_24.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_com_accountkit_progress_complete.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-v21\\com_accountkit_progress_complete.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_play_circle_filled_grey600_36.png.flat",
@@ -5146,6 +5350,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\7d4003429c3bf2ce10ecc0d947aebbc6\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_accountkit_error.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable\\com_accountkit_error.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -5356,6 +5564,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-mdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_verified_code_center.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_verified_code_center.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png"
     },
@@ -5392,6 +5604,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_com_accountkit_input_cursor.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-v21\\com_accountkit_input_cursor.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_replay_white_24.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\cda5d2a0185b96ce53f7c836d92f7d89\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_white_24.png"
     },
@@ -5410,6 +5626,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_accountkit_check_sms.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-mdpi-v4\\com_accountkit_check_sms.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
@@ -5480,6 +5700,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\21dc67fbaa5004e2e65d6f25461f48e9\\res\\layout\\messenger_button_send_white_large.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_accountkit_code_fb.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-hdpi-v4\\com_accountkit_code_fb.png"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\anim_tooltip_exit.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\anim\\tooltip_exit.xml"
     },
@@ -5516,12 +5740,12 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-12.0.1.aar\\ef00f104edbc677a421b7380de5ac818\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_email_white_18dp.png.flat",
-        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.0.aar\\8007a027e96f58bd7be14ca3697008a3\\res\\drawable-xxxhdpi-v4\\ic_email_white_18dp.png"
-    },
-    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_email_white_18dp.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.0.aar\\8007a027e96f58bd7be14ca3697008a3\\res\\drawable-xxxhdpi-v4\\ic_email_white_18dp.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -5570,6 +5794,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_item_powered_by_google.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-12.0.1.aar\\0569505ac61edeaced28cadce692bfaf\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_phone_country_code_layout.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_phone_country_code_layout.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_powered_by_google_dark.png.flat",
@@ -5666,6 +5894,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\6ec560c610420fbb85db3a1ee72d51bf\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_phone_country_code_item_layout.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_phone_country_code_item_layout.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_volume_off_grey600_36.png.flat",
@@ -5772,6 +6004,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_fragment_email_login_bottom.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_fragment_email_login_bottom.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -5794,6 +6030,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_26_light.png.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_26_light.png"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_accountkit_confirmation_code_input.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\layout\\com_accountkit_confirmation_code_input.xml"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_custom_incoming_message.9.png.flat",
@@ -5948,6 +6188,10 @@
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8c25dde2820e4c17be38b067f19b4cc7\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_white.xml.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable\\ic_arrow_back_white.xml"
+    },
+    {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\fa7eea5f9edd5e47c47443fa64b5f7e1\\res\\layout\\notification_template_media.xml"
     },
@@ -5966,6 +6210,10 @@
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_group_collapse.xml.flat",
         "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\44232a1268c902cfd056c3736dd07fe0\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_accountkit_check_sms.png.flat",
+        "source": "C:\\Users\\Gnaoh Peih\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\d68c8ce46e31923c3b9f20c601e5e790\\res\\drawable-hdpi-v4\\com_accountkit_check_sms.png"
     },
     {
         "merged": "C:\\BTL\\ConnectUs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",

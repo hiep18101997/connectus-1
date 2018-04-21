@@ -6,4 +6,7 @@
     <string name="date_header_today">Today</string>
     <string name="date_header_yesterday">Yesterday</string>
     <string name="hint_enter_a_message">Type a message…</string>
+    <string name="FACEBOOK_APP_ID">2141814806103923</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">d0c0185636933f9ddd71c81ec3380cda</string>
+    <string name="ak_login_protocol_scheme">ak2141814806103923</string>
 </resources>
