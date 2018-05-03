@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">ConnectUs</string>
 
     <!-- TODO: Remove or change this placeholder text -->
@@ -9,4 +9,32 @@
     <string name="FACEBOOK_APP_ID">2141814806103923</string>
     <string name="ACCOUNT_KIT_CLIENT_TOKEN">d0c0185636933f9ddd71c81ec3380cda</string>
     <string name="ak_login_protocol_scheme">ak2141814806103923</string>
+    <string name="google_maps_key">AIzaSyD4xOChfVq5bLVyia4Q391yC6FBOWpWNYQ</string>
+    <string name="permission_type">You need permission to use the Map. Click ACCEPT to grant permission, press CANCEL to exit the application.</string>
+    <string name="accept">ACCEPT</string>
+    <string name="cancel">CANCEL</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+
+
 </resources>

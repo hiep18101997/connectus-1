@@ -8,7 +8,15 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="26" />
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -31,8 +39,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
-        android:theme="@style/AppTheme" >
+        android:testOnly="true" >
         <meta-data
             android:name="com.facebook.accountkit.ApplicationName"
             android:value="@string/app_name" />
@@ -42,6 +49,9 @@
         <meta-data
             android:name="com.facebook.accountkit.ClientToken"
             android:value="@string/ACCOUNT_KIT_CLIENT_TOKEN" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
 
         <activity
             android:name="com.facebook.accountkit.ui.AccountKitActivity"
@@ -49,17 +59,20 @@
             android:launchMode="singleTop"
             android:theme="@style/AppLoginTheme"
             android:windowSoftInputMode="adjustResize" />
-        <activity android:name="com.connect.chat.connectus.ui.activity.MainActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity
+            android:name="com.connect.chat.connectus.ui.activity.MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
         </activity>
         <activity
             android:name="com.facebook.accountkit.ui.AccountKitEmailRedirectActivity"
             android:exported="true"
-            android:noHistory="true" >
+            android:noHistory="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
 
@@ -69,10 +82,21 @@
                 <data android:scheme="@string/ak_login_protocol_scheme" />
             </intent-filter>
         </activity>
-        <activity android:name="com.connect.chat.connectus.ui.activity.MessagesActivity" >
+        <activity
+            android:name="com.connect.chat.connectus.ui.activity.MessagesActivity"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.connect.chat.connectus.ui.activity.HomeActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
-        <activity android:name="com.connect.chat.connectus.ui.activity.HomeActivity" >
-        </activity>
+        <activity
+            android:name="com.connect.chat.connectus.ui.activity.BluetoothChatActivity"
+            android:theme="@style/Theme.AppCompat.Light" />
         <!--
              The initialization ContentProvider will call AccountKit.initialize automatically
              with the application context. This config is merged in with the host app's manifest,

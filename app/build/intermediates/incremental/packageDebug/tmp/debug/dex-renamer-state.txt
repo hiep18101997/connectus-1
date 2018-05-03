@@ -1,7 +1,7 @@
-#Sat Apr 21 12:31:20 ICT 2018
-base.0=C\:\\BTL\\ConnectUs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+#Sat Apr 28 17:50:17 ICT 2018
+base.0=D\:\\code\\ConnectUs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\BTL\\ConnectUs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.1=D\:\\code\\ConnectUs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27

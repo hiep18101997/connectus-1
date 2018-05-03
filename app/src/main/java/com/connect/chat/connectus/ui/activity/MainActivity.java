@@ -16,8 +16,6 @@ import com.facebook.accountkit.AccountKitLoginResult;
 import com.facebook.accountkit.ui.AccountKitActivity;
 import com.facebook.accountkit.ui.AccountKitConfiguration;
 import com.facebook.accountkit.ui.LoginType;
-import com.facebook.accountkit.ui.SkinManager;
-import com.facebook.accountkit.ui.UIManager;
 
 import org.json.JSONObject;
 
@@ -29,13 +27,10 @@ import butterknife.OnClick;
 
 public class MainActivity extends BaseActivity<MainPresenter> implements View.OnClickListener, MainView {
     public static int APP_REQUEST_CODE = 99;
-    AccountKitConfiguration.AccountKitConfigurationBuilder configurationBuilder;
-    UIManager uiManager;
     @BindView(R.id.btn_online)
     Button btnOnline;
     @BindView(R.id.btn_offline)
     Button btnOffline;
-    double tintIntensity;
 
     @Override
     public MainPresenter createPresenter() {
@@ -51,14 +46,10 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
     @Override
     public void initializeComponents() {
         ButterKnife.bind(this);
-        tintIntensity = 70;
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
             Window w = getWindow(); // in Activity's onCreate() for instance
             w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
         }
-        uiManager = new SkinManager(SkinManager.Skin.TRANSLUCENT, getResources().getColor(R.color.colorPrimary), R.drawable.bg, SkinManager.Tint.BLACK, tintIntensity);
-        configurationBuilder = new AccountKitConfiguration.AccountKitConfigurationBuilder(LoginType.PHONE, AccountKitActivity.ResponseType.CODE);
-        configurationBuilder.setUIManager(uiManager);
     }
 
     @OnClick({R.id.btn_online, R.id.btn_offline})
@@ -89,6 +80,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
         intent.putExtra(
                 AccountKitActivity.ACCOUNT_KIT_ACTIVITY_CONFIGURATION,
                 configurationBuilder.build());
+        intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP) ;
         startActivityForResult(intent, APP_REQUEST_CODE);
     }
 
@@ -102,14 +94,15 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
         intent.putExtra(
                 AccountKitActivity.ACCOUNT_KIT_ACTIVITY_CONFIGURATION,
                 configurationBuilder.build());
+        intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP) ;
+
         startActivityForResult(intent, APP_REQUEST_CODE);
     }
-
     @Override
     protected void onActivityResult(final int requestCode, final int resultCode, final Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
-        if (requestCode == APP_REQUEST_CODE) { // confirm that this response matches your request
+        if (requestCode ==APP_REQUEST_CODE ) { // confirm that this response matches your request
             AccountKitLoginResult loginResult = data.getParcelableExtra(AccountKitLoginResult.RESULT_KEY);
             String toastMessage;
             if (loginResult.getError() != null) {
@@ -130,7 +123,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
                 // and pass it to your server and exchange it for an access token.
 
                 // Success! Start your next activity...
-                startActivity(new Intent(this, HomeActivity.class));
+                startActivity(new Intent(this,HomeActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP));
             }
 
             // Surface the result to your user in an appropriate way.
