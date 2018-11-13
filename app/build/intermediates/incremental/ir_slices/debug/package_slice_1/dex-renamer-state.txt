@@ -1,4 +1,4 @@
-#Sat Apr 28 17:50:16 ICT 2018
-base.0=D\:\\code\\ConnectUs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+#Sat May 12 23:34:06 ICT 2018
+base.0=D\:\\code\\ConnectUs\\ConnectUs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.0=classes.dex
 renamed.0=classes.dex

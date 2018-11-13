@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "927779254390",
-    "firebase_url": "https://connectus-bc4f5.firebaseio.com",
-    "project_id": "connectus-bc4f5",
-    "storage_bucket": "connectus-bc4f5.appspot.com"
+    "project_number": "458119238627",
+    "firebase_url": "https://connectus-8c9c7.firebaseio.com",
+    "project_id": "connectus-8c9c7",
+    "storage_bucket": "connectus-8c9c7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:927779254390:android:bef9e6cd59968d0f",
+        "mobilesdk_app_id": "1:458119238627:android:bef9e6cd59968d0f",
         "android_client_info": {
           "package_name": "com.connect.chat.connectus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "927779254390-u7shqe9vdmms316r7nke181m4mk5607b.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.connect.chat.connectus",
-            "certificate_hash": "85f6b40c5255c4a5361e2ff09342d24f93bca805"
-          }
-        },
-        {
-          "client_id": "927779254390-stlvdtgq9gn72ekrmfspn5su881rutue.apps.googleusercontent.com",
+          "client_id": "458119238627-fmbt2f8o85fsv9qc91h2p57to4hhru8i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBKduL0jnJ0esi2QnnnKlx9zUU3wUi65_4"
+          "current_key": "AIzaSyBsPsSZe8C8ElOR33mhZ8z87BwQnBCJlPQ"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "927779254390-stlvdtgq9gn72ekrmfspn5su881rutue.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

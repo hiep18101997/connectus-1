@@ -36,5 +36,11 @@
     <string name="insecure_connect">Connect a device - Insecure</string>
     <string name="discoverable">Make discoverable</string>
 
-
+    <string name="sign_up_label">Đăng kí</string>
+    <string name="log_in_label">Đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_hint">Xác nhận mật khẩu</string>
+    <string name="auth_failed">Đăng kí thất bại!</string>
 </resources>

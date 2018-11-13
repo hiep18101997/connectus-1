@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#2252ba</color>
     <color name="colorPrimaryDark">#37474f</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#FFFFFF</color>
     <color name="white">#ffffff</color>
     <color name="cornflower_blue">#6274e2</color>
     <color name="cornflower_blue_dark">#303F9F</color>
@@ -22,5 +22,21 @@
     <color name="red">#e94f4f</color>
     <color name="brown">#4e342e</color>
     <color name="main_color_text">#101010</color>
+
+    <color name="color_log_in">#9437474f</color>
+    <color name="color_sign_up">#c137474f</color>
+
+
+    <color name="color_logo_log_in">#FFFFFF</color>
+    <color name="color_logo_sign_up">#FFFFFF</color>
+
+    <color name="color_label">#ededed</color>
+    <color name="white_transparent">#fafafa</color>
+
+    <color name="color_input_hint">#FFF</color>
+    <color name="color_text_highlight">#fafafa</color>
+    <color name="color_text">#FFF</color>
+
+    <color name="bg_edt_notedit">#d9d9d9</color>
 
 </resources>

@@ -1,34 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/offline_fragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.fragment.OfflineFragment">
 
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:orientation="vertical"
         tools:ignore="UselessParent">
 
-        <android.support.v7.widget.RecyclerView
+        <TextView
+            android:id="@+id/title_paired_devices"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:background="#37474f"
+            android:paddingLeft="5dp"
+            android:gravity="center"
+            android:text="@string/title_paired_devices"
+            android:textSize="@dimen/textsize_24"
+            android:textColor="#fff"
+            android:visibility="gone"
+            />
+
+        <ListView
             android:id="@+id/paired_devices"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/distance_10">
+            android:layout_weight="1"
+            android:stackFromBottom="false"
+            />
 
-        </android.support.v7.widget.RecyclerView>
+        <TextView
+            android:id="@+id/title_new_devices"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:background="#37474f"
+            android:paddingLeft="5dp"
+            android:gravity="center"
+            android:textSize="@dimen/textsize_24"
+            android:text="@string/title_other_devices"
+            android:textColor="#fff"
+            android:visibility="gone"
+            />
+
+        <ListView
+            android:id="@+id/new_devices"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:stackFromBottom="false"
+            />
 
         <Button
             android:id="@+id/button_scan"
-            android:layout_gravity="bottom"
-            android:layout_alignParentBottom="true"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/distance_10"
-            android:text="@string/button_scan" />
-
-    </RelativeLayout>
+            android:text="@string/button_scan"
+            />
+    </LinearLayout>
 
 
 </FrameLayout>

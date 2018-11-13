@@ -9,22 +9,19 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import com.connect.chat.connectus.R;
 import com.connect.chat.connectus.base.BaseFragment;
-import com.connect.chat.connectus.model.ItemOffline;
 import com.connect.chat.connectus.presenter.OfflinePresenter;
 import com.connect.chat.connectus.presenter.impl.OfflinePresenterImpl;
-import com.connect.chat.connectus.ui.adapter.OffLineAdapter;
 
-import java.util.ArrayList;
 import java.util.Set;
 
 import butterknife.BindView;
@@ -34,7 +31,7 @@ import butterknife.OnClick;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class OfflineFragment extends BaseFragment<OfflinePresenter> implements OfflineView, OffLineAdapter.iCom {
+public class OfflineFragment extends BaseFragment<OfflinePresenter> implements OfflineView {
 
     /**
      * Tag for Log
@@ -54,19 +51,22 @@ public class OfflineFragment extends BaseFragment<OfflinePresenter> implements O
     /**
      * Newly discovered devices
      */
-    private OffLineAdapter devicesArrayAdapter;
+    private ArrayAdapter<String> mNewDevicesArrayAdapter;
 
     @BindView(R.id.button_scan)
     Button scanButton;
 
     @BindView(R.id.paired_devices)
-    RecyclerView rclListDevices;
+    ListView pairedListView;
 
-    public static int REQUEST_BLUETOOTH = 1;
+    @BindView(R.id.new_devices)
+    ListView newDevicesListView;
 
-    private BluetoothAdapter BTAdapter = BluetoothAdapter.getDefaultAdapter();
+    @BindView(R.id.title_paired_devices)
+    TextView mTittlePairedDevices;
 
-    private ArrayList<ItemOffline> listDevices = new ArrayList<>();
+    @BindView(R.id.title_new_devices)
+    TextView mTittleNewDevices;
 
     @Override
     public int getContentViewId() {
@@ -75,24 +75,31 @@ public class OfflineFragment extends BaseFragment<OfflinePresenter> implements O
     }
 
     @OnClick(R.id.button_scan)
-    void onClick() {
+
+     void onClick() {
         doDiscovery();
-//        scanButton.setVisibility(View.GONE);
+        scanButton.setVisibility(View.GONE);
     }
 
     @Override
     public void initializeComponents(View view) {
-
-        ButterKnife.bind(this, view);
-
-        if (!BTAdapter.isEnabled()) {
-            Intent enableBT = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
-            startActivityForResult(enableBT, REQUEST_BLUETOOTH);
-        }
+        ButterKnife.bind(this,view);
         getPresenter().checkBluetoothAvailabe(getContext());
 
 
-        devicesArrayAdapter = new OffLineAdapter(this);
+        // Initialize array adapters. One for already paired devices and
+        // one for newly discovered devices
+        ArrayAdapter<String> pairedDevicesArrayAdapter =
+                new ArrayAdapter<String>(getContext(), R.layout.item_offline, R.id.txt_name_device);
+        mNewDevicesArrayAdapter = new ArrayAdapter<String>(getContext(), R.layout.item_offline, R.id.txt_name_device);
+
+        // Find and set up the ListView for paired devices
+        pairedListView.setAdapter(pairedDevicesArrayAdapter);
+        pairedListView.setOnItemClickListener(mDeviceClickListener);
+
+        // Find and set up the ListView for newly discovered devices
+        newDevicesListView.setAdapter(mNewDevicesArrayAdapter);
+        newDevicesListView.setOnItemClickListener(mDeviceClickListener);
 
         // Register for broadcasts when a device is discovered
         IntentFilter filter = new IntentFilter(BluetoothDevice.ACTION_FOUND);
@@ -110,16 +117,14 @@ public class OfflineFragment extends BaseFragment<OfflinePresenter> implements O
 
         // If there are paired devices, add each one to the ArrayAdapter
         if (pairedDevices.size() > 0) {
+            mTittlePairedDevices.setVisibility(View.VISIBLE);
             for (BluetoothDevice device : pairedDevices) {
-                listDevices.add(new ItemOffline(device.getName(), device.getAddress(), device.getBondState()));
+                pairedDevicesArrayAdapter.add(device.getName() + "\n" + device.getAddress());
             }
+        } else {
+            String noDevices = getResources().getText(R.string.none_paired).toString();
+            pairedDevicesArrayAdapter.add(noDevices);
         }
-
-        rclListDevices.setLayoutManager(new LinearLayoutManager(getContext()));
-        rclListDevices.smoothScrollToPosition(0);
-        // Find and set up the ListView for paired devices
-        rclListDevices.setAdapter(devicesArrayAdapter);
-
     }
 
     @Override
@@ -150,13 +155,14 @@ public class OfflineFragment extends BaseFragment<OfflinePresenter> implements O
      */
     private void doDiscovery() {
         Log.d(TAG, "doDiscovery()");
-        listDevices.clear();
 
         // Indicate scanning in the title
         getActivity().setProgressBarIndeterminateVisibility(true);
         getActivity().setTitle(R.string.scanning);
 
         // Turn on sub-title for new devices
+        mTittleNewDevices.setVisibility(View.VISIBLE);
+
         // If we're already discovering, stop it
         if (mBtAdapter.isDiscovering()) {
             mBtAdapter.cancelDiscovery();
@@ -203,31 +209,19 @@ public class OfflineFragment extends BaseFragment<OfflinePresenter> implements O
                 // Get the BluetoothDevice object from the Intent
                 BluetoothDevice device = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
                 // If it's already paired, skip it, because it's been listed already
-//                if (device.getBondState() != BluetoothDevice.BOND_BONDED) {
-                listDevices.add(new ItemOffline(device.getName(), device.getAddress(), device.getBondState()));
-                devicesArrayAdapter.notifyDataSetChanged();
-                Log.d("Lisssssst" ,listDevices.size() + "" ) ;
-//                }
+                if (device.getBondState() != BluetoothDevice.BOND_BONDED) {
+                    mNewDevicesArrayAdapter.add(device.getName() + "\n" + device.getAddress());
+                }
                 // When discovery is finished, change the Activity title
             } else if (BluetoothAdapter.ACTION_DISCOVERY_FINISHED.equals(action)) {
                 getActivity().setTitle(R.string.select_device);
-                if (listDevices.size() == 0) {
+                if (mNewDevicesArrayAdapter.getCount() == 0) {
                     String noDevices = getResources().getText(R.string.none_found).toString();
-//                    mNewDevicesArrayAdapter.add(noDevices);
-                    Log.d("Lisssst", "finish" + listDevices.size()) ;
+                    mNewDevicesArrayAdapter.add(noDevices);
                 }
             }
         }
     };
 
 
-    @Override
-    public int getCount() {
-        return listDevices.size();
-    }
-
-    @Override
-    public ItemOffline getItem(int position) {
-        return listDevices.get(position);
-    }
 }

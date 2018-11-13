@@ -29,7 +29,9 @@ public final class DialogsFixtures extends FixturesData {
 
         return chats;
     }
+    public void setupFireBaseListener() {
 
+    }
     private static Dialog getDialog(int i, Date lastMessageCreatedAt) {
         ArrayList<User> users = getUsers();
         return new Dialog(

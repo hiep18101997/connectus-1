@@ -1,40 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\code\\ConnectUs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "D:\\code\\ConnectUs\\connectus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\minhd\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.32.0.aar\\b51d78b0e4a754d3836f2d83dc097312\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,208,353,488",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "203,348,483,628"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\minhd\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-23.4.0.aar\\afd6ce005f0e7cc56eb845de98e80beb\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "3224",
-                        "endLines": "51",
-                        "endColumns": "12",
-                        "endOffsets": "3369"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\minhd\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1cfefc54e356c7fa7b3b8bee575c72b4\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\aaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7701e46655142675dc719f539ecf7f2b\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -50,6 +20,17 @@
                         "endLines": "14,15,16,17,30,43,44,45,46,47,48",
                         "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
                         "endOffsets": "763,898,973,1060,1850,2652,2779,2884,2999,3106,3219"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aaa\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.35.0.aar\\1f537f2e6596ea15cda2f4a2a255fea8\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,208,353,488",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "203,348,483,628"
                     }
                 }
             ]

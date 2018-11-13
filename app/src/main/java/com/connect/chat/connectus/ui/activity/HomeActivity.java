@@ -1,6 +1,5 @@
 package com.connect.chat.connectus.ui.activity;
 
-import android.content.Intent;
 import android.support.v4.view.ViewPager;
 
 import com.connect.chat.connectus.R;
@@ -35,7 +34,7 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
     }
 
     @Override
-    public HomePresenter createPresenter() {
+    public HomePresenter createPresenter()   {
         return new HomePresenterImpl(this);
     }
 
@@ -59,11 +58,6 @@ public class HomeActivity extends BaseActivity<HomePresenter> implements HomeVie
             }
         });
         viewPager.setOffscreenPageLimit(4);
-    }
-
-    @Override
-    public void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
     }
 
     @Override

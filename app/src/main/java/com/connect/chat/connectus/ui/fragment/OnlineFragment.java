@@ -27,7 +27,8 @@ import butterknife.ButterKnife;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class OnlineFragment extends BaseFragment<OnlinePresenter> implements OnlineView, DialogsListAdapter.OnDialogClickListener<Dialog>, DialogsListAdapter.OnDialogLongClickListener<Dialog>, DateFormatter.Formatter {
+public class OnlineFragment extends BaseFragment<OnlinePresenter> implements OnlineView,
+        DialogsListAdapter.OnDialogClickListener<Dialog>, DialogsListAdapter.OnDialogLongClickListener<Dialog>, DateFormatter.Formatter {
     DialogsList dialogsListView;
     DialogsListAdapter<Dialog> dialogsAdapter;
 
