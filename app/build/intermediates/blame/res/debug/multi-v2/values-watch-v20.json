@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\code\\ConnectUs\\connectus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "/home/hoanghiep/Documents/Dự án/CNU/connectus-1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aaa\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\45b81d1cb677b18b0e3e197ae0d89285\\res\\values-watch-v20\\values.xml",
+                    "source": "/home/hoanghiep/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/3e54918bc12cdc654221f9218cb5fe6e/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

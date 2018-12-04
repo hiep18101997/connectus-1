@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\code\\ConnectUs\\connectus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "/home/hoanghiep/Documents/Dự án/CNU/connectus-1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7701e46655142675dc719f539ecf7f2b\\res\\values-v12\\values-v12.xml",
+                    "source": "/home/hoanghiep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/953be616e81e44701443852e0fc00237/res/values-v12/values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
